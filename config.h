@@ -20,7 +20,7 @@ static const char dmenufont[]       = "JetBrainsMono Nerd Font Mono:style:medium
 #define ICONSIZE 19   /* icon size */
 #define ICONSPACING 8 /* space between icon and title */
 
-#include "../../themes/catppuccin.h"
+#include "themes/catppuccin.h"
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
